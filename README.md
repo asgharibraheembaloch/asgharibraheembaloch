@@ -31,5 +31,5 @@
   <li><a href="https://github.com/asgharibraheembaloch/pwa_react_weather_app"><b>☁️☀️🌨️🛰️❄️ React Weather Appliation</b></a><br/><i>A Progressive Web Application(PWA) <a href="https://api.openweathermap.org/data/2.5/weather">Open Weather Map Rest API for Weather</a>.</i></li>
   <li><a href="https://github.com/asgharibraheembaloch/shoe-store"><b>👞👟🥾👡👢 React Shoe Store Application</b></a><br/><i>A Multipage Application created using react router dom.</i></li>
   <li><a href="https://github.com/asgharibraheembaloch/covid-19-tracker"><b>😷 React Covid 19 Tracker Application</b></a><br/><i>Covid 19 tracker application created using material-ui, chartjs,  <a href="https://covid19.mathdro.id/api">Covid Tracker Rest API</a></i></li>
-  <li><a href="https://github.com/asgharibraheembaloch/react-expense-tracker"><b>🔖 Expense tacker Application</b></a><br/><i>A basic react expense tracker application created using React context api and useReducer Hook.</i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/pern-stack-todo-app"><b>🔖 Todo Application</b></a><br/><i>A basic react todo application created using React Hooks and Postgresql Databse at localhost.</i></li>
 </ul>
