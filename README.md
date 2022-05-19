@@ -28,4 +28,5 @@
   <li><a href="https://github.com/asgharibraheembaloch/quiz-app"><b>❓ Quiz Application</b></a><br/><i>A Typescript Application with Styled Components,
     <a href="https://opentdb.com/">Open Trivia Database Server Rest API for Quiz</a>
     </i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/pwa_react_weather_app"><b>☁️☀️🌨️🛰️❄️ React Weather Appliation</b></a><br/><i>A Progressive Web Application(PWA).</i></li>
 </ul>
