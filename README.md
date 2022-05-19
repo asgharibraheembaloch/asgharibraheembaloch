@@ -22,15 +22,15 @@
 <h3>My Projects Repo's on Github</h3>
 <ul>
   <li><a href="https://github.com/asgharibraheembaloch/bookmarking-app"><b>🔖 Book Marking Application</b></a><br/><i>A GraphQl Faunadb Todo Application.</i></li>
-  <li><a href="https://github.com/asgharibraheembaloch/JAMStackTodo"><b>🔖 A Simple Todo Application</b></a><br/><i>A Simple Todo Application with React, Netlify,              Gatstby, FaunaDB.</i></li>
-  <li><a href="https://github.com/asgharibraheembaloch/spacex-app"><b>🚀 SpaceX</b></a><br/><i>this website contains details related to satellite launches into space with their launch pad location, launch success, pictures, and other details related to mission.</i>
-   <br/><i>App is Created from graphql Appollo Client, <a href="https://spacexdata.herokuapp.com/graphql">Heroku Graphql Server API for SpaceX</a>, Typescript.</i>
+  <li><a href="https://github.com/asgharibraheembaloch/JAMStackTodo"><b>🗹 A Simple Todo Application</b></a><br/><i>A Simple Todo Application with React, Netlify,              Gatstby, FaunaDB.</i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/spacex-app"><b>🚀 SpaceX</b></a><br/><i>this website contains details related to satellite launches into space           with their launch pad location, launch success, pictures, and other details related to mission.</i>
+          <br/><i>App is Created from graphql Appollo Client, <a href="https://spacexdata.herokuapp.com/graphql">Heroku Graphql Server API for SpaceX</a>, Typescript.           </i>
   </li>
   <li><a href="https://github.com/asgharibraheembaloch/quiz-app"><b>❓ Quiz Application</b></a><br/><i>A Typescript Application with Styled Components,
-    <a href="https://opentdb.com/">Open Trivia Database Server Rest API for Quiz</a>
-    </i></li>
-  <li><a href="https://github.com/asgharibraheembaloch/pwa_react_weather_app"><b>☁️☀️🌨️🛰️❄️ React Weather Appliation</b></a><br/><i>A Progressive Web Application(PWA) <a href="https://api.openweathermap.org/data/2.5/weather">Open Weather Map Rest API for Weather</a>.</i></li>
-  <li><a href="https://github.com/asgharibraheembaloch/shoe-store"><b>👞👟🥾👡👢 React Shoe Store Application</b></a><br/><i>A Multipage Application created using react router dom.</i></li>
-  <li><a href="https://github.com/asgharibraheembaloch/covid-19-tracker"><b>😷 React Covid 19 Tracker Application</b></a><br/><i>Covid 19 tracker application created using material-ui, chartjs,  <a href="https://covid19.mathdro.id/api">Covid Tracker Rest API</a></i></li>
-  <li><a href="https://github.com/asgharibraheembaloch/pern-stack-todo-app"><b>🔖 Todo Application</b></a><br/><i>A basic react todo application created using React Hooks and Postgresql Databse at localhost.</i></li>
+          <a href="https://opentdb.com/">Open Trivia Database Server Rest API for Quiz</a>
+          </i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/pwa_react_weather_app"><b>☁️☀️🌨️🛰️❄️ React Weather Appliation</b></a><br/><i>A Progressive Web                          Application(PWA) <a href="https://api.openweathermap.org/data/2.5/weather">Open Weather Map Rest API for Weather</a>.</i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/shoe-store"><b>👞👟🥾👡👢 React Shoe Store Application</b></a><br/><i>A Multipage Application created using            react router dom.</i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/covid-19-tracker"><b>😷 React Covid 19 Tracker Application</b></a><br/><i>Covid 19 tracker application created           using material-ui, chartjs,  <a href="https://covid19.mathdro.id/api">Covid Tracker Rest API</a></i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/pern-stack-todo-app"><b>✅ Todo Application</b></a><br/><i>A basic react todo application created using React             Hooks and Postgresql Databse at localhost.</i></li>
 </ul>
