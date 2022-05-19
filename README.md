@@ -22,4 +22,10 @@
 <ul>
   <li><a href="https://github.com/asgharibraheembaloch/bookmarking-app"><b>🔖 Book Marking Application</b></a><br/><i>A GraphQl Faunadb Todo Application.</i></li>
   <li><a href="https://github.com/asgharibraheembaloch/JAMStackTodo"><b>🔖 A Simple Todo Application</b></a><br/><i>A Simple Todo Application with React, Netlify,              Gatstby, FaunaDB.</i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/spacex-app"><b>🚀 SpaceX</b></a><br/><i>this website contains details related to satellite launches into space with their launch pad location, launch success, pictures, and other details related to mission.</i>
+   <br/><i>App is Created from graphql Appollo Client, <a href="https://spacexdata.herokuapp.com/graphql">Heroku Graphql Server API for SpaceX</a>, Typescript.</i>
+  </li>
+  <li><a href="https://github.com/asgharibraheembaloch/quiz-app"><b>❓ Quiz Application</b></a><br/><i>A Typescript Application with Styled Components,
+    Rest API Referrence for backend <a href="https://opentdb.com/">Open Trivia Database Server API for Quiz</a>
+    </i></li>
 </ul>
