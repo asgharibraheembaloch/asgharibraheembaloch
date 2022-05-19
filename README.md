@@ -26,6 +26,6 @@
    <br/><i>App is Created from graphql Appollo Client, <a href="https://spacexdata.herokuapp.com/graphql">Heroku Graphql Server API for SpaceX</a>, Typescript.</i>
   </li>
   <li><a href="https://github.com/asgharibraheembaloch/quiz-app"><b>❓ Quiz Application</b></a><br/><i>A Typescript Application with Styled Components,
-    Rest API Referrence for backend <a href="https://opentdb.com/">Open Trivia Database Server API for Quiz</a>
+    <a href="https://opentdb.com/">Open Trivia Database Server Rest API for Quiz</a>
     </i></li>
 </ul>
