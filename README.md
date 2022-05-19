@@ -20,5 +20,6 @@
 
 <h3>My Projects Repo's on Github</h3>
 <ul>
-      <li><a href="[https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98](https://github.com/asgharibraheembaloch/bookmarking-app)"><b>🔖 Book Marking Application</b></a><br/><i>A GraphQl Faunadb Todo Application.</i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/bookmarking-app"><b>🔖 Book Marking Application</b></a><br/><i>A GraphQl Faunadb Todo Application.</i></li>
+  <li><a href="https://github.com/asgharibraheembaloch/JAMStackTodo"><b>🔖 A Simple Todo Application</b></a><br/><i>A Simple Todo Application with React, Netlify,              Gatstby, FaunaDB.</i></li>
 </ul>
