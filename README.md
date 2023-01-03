@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-![Asghar's GitHub profile README.md welcome banner image](https://raw.githubusercontent.com/asgharibraheembaloch/asgharibraheembaloch/main/asghar_profile.png "Welcome to Bharath's GitHub")
+![Asghar's GitHub profile README.md welcome banner image](https://raw.githubusercontent.com/asgharibraheembaloch/asgharibraheembaloch/main/asg_profile.png "Welcome to Bharath's GitHub")
 
 <p>Welcome to my page! </br> I'm Asghar, Fullstack developer from <img src="https://e7.pngegg.com/pngimages/422/640/png-clipart-pakistan-flag-grass-symbol-green-pakistan-flag-logo-thumbnail.png" width="13"/> <b>Islamabad, Pakistan</b></p>
 <h3>Things I code with</h3>
